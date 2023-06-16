@@ -1,7 +1,6 @@
 # Api-Controle-de-gastos
 
-![image](https://github.com/JoaoEduardoFM/Api-Rest-Spring-Boot/assets/90796699/46f06260-422d-4d60-a6f8-dac527c73b3b)
-
+![image](https://github.com/JoaoEduardoFM/Api-Rest-Spring-Boot/assets/90796699/9f847992-90ae-48e6-8b65-7337b656a8a5)
 
 > Status: Em desenvolvimento ⚠️
 
