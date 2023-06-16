@@ -8,7 +8,7 @@
 
 ## Alguns campos no modelo principal são:
 
-## categoria
+## Categoria
 + codigo 
 + nome
 
@@ -21,7 +21,7 @@
 + cidade;
 + estado;
 
-##lancamento
+## Lancamento
 + codigo
 + descricao
 + data vencimento
@@ -32,13 +32,13 @@
 + categoria
 + pessoa
 
-##pessoa
+## Pessoa
 + codigo
 + nome
 + endereco
 + ativo
 
-##Tipo Lancamento
+## Tipo Lancamento
 + RECEITA
 + DESPESA
 
