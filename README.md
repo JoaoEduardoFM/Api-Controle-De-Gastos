@@ -67,8 +67,6 @@
 4) tratado todos os tipo de retorno rest (Ex: 201 created).
 5) Adicionado Swagger.
 
-## Esses recursos estão em desenvolvimento:
-
 - Em desenvolvimento ⚠️
 1) Adicionar autenticação JWT.
 
